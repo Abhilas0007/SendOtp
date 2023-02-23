@@ -1,0 +1,6 @@
+com\SendEmailTest\sendEmail\SendEmailApplication.class
+com\SendEmailTest\sendEmail\dto\ResponseDto.class
+com\SendEmailTest\sendEmail\controllers\sendEmailController.class
+com\SendEmailTest\sendEmail\util\Constants.class
+com\SendEmailTest\sendEmail\service\sendEmailService.class
+com\SendEmailTest\sendEmail\util\ConfigData.class
